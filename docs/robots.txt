@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://singhamitkr825408-hash.github.io/public-brand-guides/sitemap.xml
